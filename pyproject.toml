@@ -3,7 +3,7 @@ requires = ["setuptools>=61", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "optimum-onnx"
+name = "optimum-onnx-transformers5-naf"
 dynamic = ["version"]
 description = "Optimum ONNX is an interface between the Hugging Face libraries and ONNX / ONNX Runtime"
 readme = "README.md"
@@ -11,6 +11,7 @@ requires-python = ">=3.9.0"
 license = { text = "Apache-2.0" }
 authors = [
     { name = "HuggingFace Inc. Special Ops Team", email = "hardware@huggingface.co" },
+    { name = "John Mäkelä", email = "john.makela@kansallisarkisto.fi" },
 ]
 keywords = ["transformers", "quantization", "inference", "onnx", "onnxruntime", "onnxscript"]
 classifiers = [
@@ -36,7 +37,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/huggingface/optimum-onnx"
+Homepage = "https://github.com/Kansallisarkisto-AI/optimum-onnx"
 
 [project.optional-dependencies]
 onnxruntime = ["onnxruntime>=1.18.0"]

@@ -8,6 +8,9 @@
 
 </div>
 
+### Information
+This if a temporary fork maintained by National Archives of Finland until transformers 5.x support lands in the official optimum-onnx.
+
 
 ### Installation
 
