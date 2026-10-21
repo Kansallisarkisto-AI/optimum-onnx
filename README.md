@@ -9,7 +9,7 @@
 </div>
 
 ### Information
-This if a temporary fork based on the transformers 5.x PR by [xadupre](https://github.com/huggingface/optimum-onnx/pull/121). Packaged result published by National Archives of Finland to be used until transformers 5.x support lands in the official optimum-onnx.
+This is a temporary fork based on the transformers 5.x PR by [xadupre](https://github.com/huggingface/optimum-onnx/pull/121). Packaged result published by National Archives of Finland to be used until transformers 5.x support lands in the official optimum-onnx.
 
 
 ### Installation
