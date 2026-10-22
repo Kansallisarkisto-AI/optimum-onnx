@@ -38,6 +38,7 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://github.com/Kansallisarkisto-AI/optimum-onnx"
+Upstream = "https://github.com/huggingface/optimum-onnx/tree/xadupre/transformers5"
 
 [project.optional-dependencies]
 onnxruntime = ["onnxruntime>=1.18.0"]
